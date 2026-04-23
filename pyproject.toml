@@ -41,9 +41,9 @@ dev = [
 uav-battery = "battery_life_estimator:main"
 
 [project.urls]
-Homepage = "https://github.com/bolddrones/battery-life-estimator"
-Repository = "https://github.com/bolddrones/battery-life-estimator"
-Issues = "https://github.com/bolddrones/battery-life-estimator/issues"
+Homepage = "https://github.com/brandonhimpfen/battery-life-estimator"
+Repository = "https://github.com/brandonhimpfen/battery-life-estimator"
+Issues = "https://github.com/brandonhimpfen/battery-life-estimator/issues"
 
 [tool.setuptools]
 py-modules = ["battery_life_estimator"]
